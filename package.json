@@ -16,11 +16,13 @@
     "gdocs",
     "drive"
   ],
-  "repository": "https://github.com/my-codeworks/copy-with-style",
+  "repository": "https://github.com/rootalley/copy-with-style",
   "license": "MIT",
-  "author": "Jonas Schubert Erlandsson <jonas.schubert.erlandsson@my-codeworks.com> (http://my-codeworks.com/)",
+  "author": "Steven Endres <github@rootalley.com>",
   "contributors": [
-    "Alexander Kotliarskyi <contact@frantic.im> (http://frantic.im/)"
+    "Jonas Schubert Erlandsson <jonas.schubert.erlandsson@my-codeworks.com> (http://my-codeworks.com/)",
+    "Alexander Kotliarskyi <contact@frantic.im> (http://frantic.im/)",
+    "John's Brew (https://github.com/johnsbrew)"
   ],
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
